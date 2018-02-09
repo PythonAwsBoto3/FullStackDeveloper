@@ -3,3 +3,6 @@ https://www.rubysteps.com/so-you-want-to-become-a-full-stack-developer/
 
 
 https://www.quackit.com/html/tutorial/introduction.cfm : about css html 
+
+
+https://www.quackit.com/html/tags/ html5 tags
